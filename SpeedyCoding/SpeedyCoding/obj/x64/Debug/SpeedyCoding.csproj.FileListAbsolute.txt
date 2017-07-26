@@ -1,0 +1,15 @@
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\SpeedyCoding.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\SpeedyCoding.pdb
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\obj\x64\Debug\SpeedyCoding.csprojResolveAssemblyReference.cache
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\obj\x64\Debug\SpeedyCoding.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\obj\x64\Debug\SpeedyCoding.pdb
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\Microsoft.CSharp.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\PresentationCore.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\PresentationFramework.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\System.Data.DataSetExtensions.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\System.Data.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\System.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\System.Net.Http.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\System.Xml.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\System.Xml.Linq.dll
+C:\00Nuget\SpeedyCoding\SpeedyCoding\SpeedyCoding\bin\x64\Debug\WindowsBase.dll
